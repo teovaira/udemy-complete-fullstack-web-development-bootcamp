@@ -1,0 +1,1 @@
+In order to see the emoji flags, open the app with mozilla
