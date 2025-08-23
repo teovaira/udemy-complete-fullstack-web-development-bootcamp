@@ -1,0 +1,1 @@
+In order for the app to run, use in the terminal "npx nodemon" and each one of the index.js files.
